@@ -32,8 +32,7 @@ module.exports = {
       options: {
         apiURL: "https://ce-vin-ci-cms.herokuapp.com",
         contentTypes: [
-          "restaurant",
-          "category",
+          "bog-posts"
         ],
         queryLimit: 1000,
       },
